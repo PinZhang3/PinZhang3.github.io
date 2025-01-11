@@ -18,7 +18,7 @@ weight: 3
 <a href="https://github.com/PinZhang3" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>  
-<p style="clear: both;">
+<p style="clear: both;"></p>
 
 **PhD students**
 
@@ -34,7 +34,7 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0;"> 2017-2021: B.Eng at Central South Uni </h5>
 
 </div>
-<p style="clear: both;">
+<p style="clear: both;"></p>
 
 
 <!-- Xiao-Xuan CHEN -->
@@ -48,7 +48,7 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0;"> 2019-2023: B.Sc at Zhejiang Uni </h5>
 
 </div>
-<p style="clear: both;">
+<p style="clear: both;"></p>
   
 <!-- Geng-Fu HE -->
 
@@ -62,4 +62,4 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0;"> 2013-2017: B.Sc at Sichuan Uni </h5>
 
 </div>
-<p style="clear: both;">
+<p style="clear: both;"></p>
