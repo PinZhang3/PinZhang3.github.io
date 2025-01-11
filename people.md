@@ -34,7 +34,7 @@ weight: 3
 
 -->
 
-<!-- Dr. ZHANG -->
+<!-- Dr. ZHANG annotate-->
 
 <div>
 
@@ -46,14 +46,12 @@ weight: 3
 <a href="https://www.linkedin.com/in/pin-zhang-086579278/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
 <a href="https://github.com/PinZhang3" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
-</div>
 <p style="clear: both;">
-  
+</div>  
 **PhD students**
-  
-<!-- Yushuo Zhang -->
 
 <div>
+<!-- Yushuo Zhang -->
 
 <img src="/assets/Yushuo_Zhang_2025.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Yushuo Zhang </h3>
