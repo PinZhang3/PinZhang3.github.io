@@ -46,8 +46,9 @@ weight: 3
 <a href="https://www.linkedin.com/in/pin-zhang-086579278/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
 <a href="https://github.com/PinZhang3" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
-<p style="clear: both;">
 </div>  
+<p style="clear: both;">
+
 **PhD students**
 
 <div>
