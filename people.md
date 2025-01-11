@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 weight: 3
 ---
-
+<div>
 <!-- 
 <center><strong><font size="15"> Meet our team! </font></strong></center>
 
