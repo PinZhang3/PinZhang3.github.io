@@ -91,3 +91,4 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0;"> 2013-2017: B.Sc at Sichuan Uni </h5>
 
 </div>
+<p style="clear: both;">
