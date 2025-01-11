@@ -38,8 +38,8 @@ weight: 3
 <h3 style="margin-bottom:0;"> Yushuo Zhang </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Topic: Multi-scale Modelling </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Ph.D at NUS </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 2021-2024: M.Sc at Central South Uni </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 2017-2021: B.Eng at Central South Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2024: M.Sc at Central South Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2021: B.Eng at Central South Uni </h5>
 
 </div>
 
@@ -54,7 +54,7 @@ weight: 3
 <h3 style="margin-bottom:0;"> Xiao-Xuan CHEN </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Topic: Physics-informed Learning </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2023-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 2019-2023: B.Sc at Zhejiang Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2023: B.Sc at Zhejiang Uni </h5>
 
 </div>
 
@@ -68,8 +68,8 @@ weight: 3
 <h3 style="margin-bottom:0;"> Geng-Fu HE </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Topic: Uncertainty Quantification </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2022-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 2017-2020: M.Sc at Sichuan Uni </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 2013-2017: B.Sc at Sichuan Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2020: M.Sc at Sichuan Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2017: B.Sc at Sichuan Uni </h5>
 
 </div>
 
