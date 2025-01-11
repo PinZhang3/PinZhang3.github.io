@@ -52,6 +52,19 @@ weight: 3
 <div>
   
 **PhD students**
+</div>
+
+<p style="clear: both;">
+  
+<!-- Yushuo Zhang -->
+
+<div>
+
+<img src="/assets/Yushuo_Zhang_2025.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
+<h3 style="margin-bottom:0;"> Yushuo Zhang </h3>
+<h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Ph.D at NUS </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2021-2024: M.Sc at Central South Uni </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2017-2021: B.Eng at Central South Uni </h5>
 
 </div>
 
