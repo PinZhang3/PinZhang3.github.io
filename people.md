@@ -51,8 +51,9 @@ weight: 3
 
 **PhD students**
 
-<div>
+
 <!-- Yushuo Zhang -->
+<div>
 
 <img src="/assets/Yushuo_Zhang_2025.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Yushuo Zhang </h3>
