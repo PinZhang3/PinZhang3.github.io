@@ -18,9 +18,12 @@ weight: 3
 <a href="https://github.com/PinZhang3" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>  
-<p style="clear: both;"></p>
+<p style="clear: both;">
 
+</div>
 **PhD students**
+</div>  
+<p style="clear: both;">
 
 <!-- Yushuo Zhang -->
 
@@ -48,7 +51,7 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0;"> 2019-2023: B.Sc at Zhejiang Uni </h5>
 
 </div>
-<p style="clear: both;"></p>
+<p style="clear: both;">
   
 <!-- Geng-Fu HE -->
 
@@ -62,4 +65,4 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0;"> 2013-2017: B.Sc at Sichuan Uni </h5>
 
 </div>
-<p style="clear: both;"></p>
+<p style="clear: both;">
