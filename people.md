@@ -24,7 +24,7 @@ weight: 3
 
 <div> 
 
-**PhD students**
+**PhD students**  
 
 </div>  
 
