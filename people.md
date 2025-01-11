@@ -52,8 +52,8 @@ weight: 3
 <div>
   
 **PhD students**
-</div>
 
+</div>
 <p style="clear: both;">
   
 <!-- Yushuo Zhang -->
@@ -62,14 +62,14 @@ weight: 3
 
 <img src="/assets/Yushuo_Zhang_2025.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Yushuo Zhang </h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Multi-scale Modelling
+<h5 style="margin-top:0; margin-bottom:0;"> Topic: Multi-scale Modelling
 <h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Ph.D at NUS </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2021-2024: M.Sc at Central South Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2017-2021: B.Eng at Central South Uni </h5>
 
 </div>
-
 <p style="clear: both;">
+
 
 <!-- Xiao-Xuan CHEN -->
 
@@ -77,12 +77,11 @@ weight: 3
 
 <img src="/assets/Xiaoxuan_Chen_2022.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Xiao-Xuan CHEN </h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Physics-informed Learning
+<h5 style="margin-top:0; margin-bottom:0;"> Topic: Physics-informed Learning
 <h5 style="margin-top:0; margin-bottom:0;"> 2023-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2019-2023: B.Sc at Zhejiang Uni </h5>
 
 </div>
-
 <p style="clear: both;">
   
 <!-- Geng-Fu HE -->
@@ -91,7 +90,7 @@ weight: 3
 
 <img src="/assets/Gengfu_He_2021.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Geng-Fu HE </h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Uncertainty Quantification
+<h5 style="margin-top:0; margin-bottom:0;"> Topic: Uncertainty Quantification
 <h5 style="margin-top:0; margin-bottom:0;"> 2022-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2017-2020: M.Sc at Sichuan Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2013-2017: B.Sc at Sichuan Uni </h5>
