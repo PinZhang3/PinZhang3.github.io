@@ -5,6 +5,7 @@ permalink: /people/
 weight: 3
 ---
 <div>
+  
 <!-- 
 <center><strong><font size="15"> Meet our team! </font></strong></center>
 
@@ -41,7 +42,7 @@ weight: 3
 <img src="/assets/Pin_Zhang.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> <a href="/people/pinzhang/"> Pin ZHANG </a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Principal Investigator </h5>
-<a href="mailto: dr.pin.zhang@gmail.com"><i class="fas fa-envelope-square fa-lg"></i></a>
+<a href="mailto: pinzhang@nus.edu.sg"><i class="fas fa-envelope-square fa-lg"></i></a>
 <a href="https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
 <a href="https://www.linkedin.com/in/pin-zhang-086579278/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
 <a href="https://github.com/PinZhang3" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
