@@ -75,14 +75,12 @@ weight: 3
 
 <p style="clear: both;">
 
-
+<div>
 **Visiting Students**
-
+</div>
 
 <div>
-
-2025-Date: Jiaxin Liu, Shanghai Jiao Tong Uni </h3>
-
+2025-Date: Jiaxin Liu, Shanghai Jiao Tong Uni
 </div>
 
 <p style="clear: both;">
