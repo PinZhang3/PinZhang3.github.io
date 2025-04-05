@@ -23,6 +23,9 @@ weight: 3
 
 
 <div> 
+  
+**Postdocs**  
+
 
 **PhD students**  
 
@@ -34,7 +37,6 @@ weight: 3
 
 <div>
 
-<img src="/assets/Yushuo_Zhang_2025.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Yushuo ZHANG </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Topic: Multi-scale Modelling </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Ph.D at NUS </h5>
@@ -50,7 +52,6 @@ weight: 3
 
 <div> 
 
-<img src="/assets/Xiaoxuan_Chen_2022.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Xiao-Xuan CHEN </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Topic: Physics-informed Learning </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2023-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
@@ -64,7 +65,6 @@ weight: 3
 
 <div>
 
-<img src="/assets/Gengfu_He_2021.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> Geng-Fu HE </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Topic: Uncertainty Quantification </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2022-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
@@ -80,7 +80,11 @@ weight: 3
 </div>
 
 <div>
-2025-Date: Jiaxin Liu, Shanghai Jiao Tong Uni
+
+03/2025-Date: Panpan Li, Hunan Uni
+03/2025-Date: Gang Yang, Chengdu Uni of Technology
+02/2025-Date: Jiaxin Liu, Shanghai Jiao Tong Uni
+
 </div>
 
 <p style="clear: both;">
