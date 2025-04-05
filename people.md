@@ -35,7 +35,7 @@ weight: 3
 
 <div> 
   
-**PhD students**  
+<h2><strong>PhD students</strong></h2>
 
 </div>  
 
@@ -85,7 +85,7 @@ weight: 3
 
 <div>
   
-**Visiting Students**
+<h2><strong>Visiting PhD students</strong></h2>
 
 </div>
 
