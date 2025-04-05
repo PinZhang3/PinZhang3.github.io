@@ -26,7 +26,10 @@ weight: 3
   
 **Postdocs**  
 
+</div>  
 
+<p style="clear: both;">
+  
 **PhD students**  
 
 </div>  
