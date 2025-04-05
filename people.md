@@ -83,13 +83,25 @@ weight: 3
 <p style="clear: both;">
 
 <div>
+  
 **Visiting Students**
+
 </div>
 
 <div>
 
 03/2025-Date: Panpan Li, Hunan Uni
+
+</div>
+
+<div>
+  
 03/2025-Date: Gang Yang, Chengdu Uni of Technology
+
+</div>
+
+<div>
+  
 02/2025-Date: Jiaxin Liu, Shanghai Jiao Tong Uni
 
 </div>
