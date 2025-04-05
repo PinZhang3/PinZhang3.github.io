@@ -23,7 +23,7 @@ weight: 3
 
 <div> 
   
-**Postdocs**  
+<h2><strong>Postdocs</strong></h2>
 
 </div>  
 
