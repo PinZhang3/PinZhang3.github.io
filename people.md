@@ -27,7 +27,7 @@ weight: 3
 
 </div>  
 
-<h3 style="margin-bottom:0;"> Weiqi Guo </h3>
+<h3 style="margin-bottom:0;"> Weiqi GUO </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Topic: Coupled multi-phase modelling </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Postdoc at NUS </h5>
 
@@ -39,10 +39,6 @@ weight: 3
 
 </div>  
 
-<p style="clear: both;">
-  
-<!-- Yushuo Zhang -->
-
 <div>
 
 <h3 style="margin-bottom:0;"> Yushuo ZHANG </h3>
@@ -53,11 +49,6 @@ weight: 3
 
 </div>
 
-<p style="clear: both;">
-
-
-<!-- Xiao-Xuan CHEN -->
-
 <div> 
 
 <h3 style="margin-bottom:0;"> Xiao-Xuan CHEN </h3>
@@ -66,10 +57,6 @@ weight: 3
 <h5 style="margin-top:0; margin-bottom:0;"> 2023: B.Sc at Zhejiang Uni </h5>
 
 </div>
-
-<p style="clear: both;">
-  
-<!-- Geng-Fu HE -->
 
 <div>
 
@@ -81,7 +68,6 @@ weight: 3
 
 </div>
 
-<p style="clear: both;">
 
 <div>
   
@@ -89,21 +75,23 @@ weight: 3
 
 </div>
 
+
 <div>
 
-03/2025-Date: Panpan Li, Hunan Uni
+03/2025-Date: Panpan LI, Hunan Uni
+
+</div>
+
+
+<div>
+  
+03/2025-Date: Gang YANG, Chengdu Uni of Technology
 
 </div>
 
 <div>
   
-03/2025-Date: Gang Yang, Chengdu Uni of Technology
-
-</div>
-
-<div>
-  
-02/2025-Date: Jiaxin Liu, Shanghai Jiao Tong Uni
+02/2025-Date: Jiaxin LIU, Shanghai Jiao Tong Uni
 
 </div>
 
