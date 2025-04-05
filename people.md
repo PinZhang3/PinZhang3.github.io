@@ -28,6 +28,10 @@ weight: 3
 
 </div>  
 
+<h3 style="margin-bottom:0;"> Weiqi Guo </h3>
+<h5 style="margin-top:0; margin-bottom:0;"> Topic: Coupled multi-phase modelling </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 2025-Date: Postdoc at NUS </h5>
+
 <p style="clear: both;">
   
 **PhD students**  
