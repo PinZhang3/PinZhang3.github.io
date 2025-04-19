@@ -5,6 +5,7 @@ permalink: /publications/
 weight: 4
 ---
 
+Full Publications in [Google Scholar](https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en)  
 (*corresponding, #supervised)
 
 # __Books__
