@@ -76,23 +76,26 @@ weight: 3
 
 </div>
 
-
+<div style="flex: 1; min-width: 250px;">
+  <h5 style="margin-bottom:0;">05/2025-Present, Ya YIN, Uni of Science and Technology Beijing</h3>
+</div>
+  
 <div>
 
-03/2025-Date: Panpan LI, Hunan Uni
+03/2025-Present: Panpan LI, Hunan Uni
 
 </div>
 
 
 <div>
   
-03/2025-Date: Gang YANG, Chengdu Uni of Technology
+03/2025-Present: Gang YANG, Chengdu Uni of Technology
 
 </div>
 
 <div>
   
-02/2025-Date: Jiaxin LIU, Shanghai Jiao Tong Uni
+02/2025-Present: Jiaxin LIU, Shanghai Jiao Tong Uni
 
 </div>
 
