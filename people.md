@@ -40,7 +40,7 @@ weight: 3
 </div>  
 
 <!-- Wrapper for all PhD students -->
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <!-- Student 1 -->
   <div style="flex: 1; min-width: 250px;">
