@@ -76,23 +76,23 @@ weight: 3
 
 </div>
 
-<!-- Wrapper for all PhD students -->
+<!-- Wrapper for all Visiting PhD students -->
 <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
   
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">05/2025-Present, Ya YIN, Uni of Science and Technology Beijing</h3>
+    <h5 style="margin-bottom:0;">05/2025-Present, Ya YIN, Uni of Science and Technology Beijing</h5>
   </div>
   
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">03/2025-Present: Panpan LI, Hunan Uni</h3>
+    <h5 style="margin-bottom:0;">03/2025-Present: Panpan LI, Hunan Uni</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-  <h5 style="margin-bottom:0;">03/2025-Present: Gang YANG, Chengdu Uni of Technology</h3>
+  <h5 style="margin-bottom:0;">03/2025-Present: Gang YANG, Chengdu Uni of Technology</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-  <h5 style="margin-bottom:0;">02/2025-Present: Jiaxin LIU, Shanghai Jiao Tong Uni</h3>
+  <h5 style="margin-bottom:0;">02/2025-Present: Jiaxin LIU, Shanghai Jiao Tong Uni</h5>
   </div>
 
 </div>  
