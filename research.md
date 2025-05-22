@@ -4,11 +4,10 @@ title: Research
 permalink: /research/
 weight: 2
 ---
-#### Intelligent algorithms, computational mechanics, solid and fluid mechanics underpin our research. 
-
+**Completed Projects**
 <!-- This is for Science Discovery -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"><font size="3">Explainable AI for Science</font></p>
+<font size="3">Explainable AI for Science</font><p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></p>
 <p style="clear: both;">
 
 <!-- This is for Intelligent CM -->
