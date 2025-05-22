@@ -6,7 +6,7 @@ weight: 2
 ---
 **Completed Projects**
 <!-- This is for Science Discovery -->
-<div style="text-align: center; font-size: 9px;">
+<div style="text-align: center; font-size: 16px;">
   Explainable AI for Physics
 </div>
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></p>
