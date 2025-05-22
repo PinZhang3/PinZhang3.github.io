@@ -12,7 +12,7 @@ weight: 2
 
 <!-- This is for Intelligent CM -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/Explainable AI for Physics/"><font size="3">Intelligent Computational Mechanics</font></a><img src="/assets/research/Intelligent Computational Mechanics.gif" style="width: 100%; border: 2px solid black;"></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/Intelligent Computational Mechanics/"><font size="3">Intelligent Computational Mechanics</font></a><img src="/assets/research/Intelligent Computational Mechanics.gif" style="width: 100%; border: 2px solid black;"></p>
 <p style="clear: both;">
   
 <!-- This is for Mechanics -->
