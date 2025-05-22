@@ -7,7 +7,7 @@ weight: 2
 **Completed Projects**
 <!-- This is for Science Discovery -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/people/pinzhang/"><font size="3">Explainable AI for Physics</font><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/people/pinzhang/"><font size="3">Explainable AI for Physics</font></a><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></p>
 <p style="clear: both;">
 
 <!-- This is for Intelligent CM -->
