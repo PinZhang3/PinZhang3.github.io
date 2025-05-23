@@ -11,3 +11,5 @@ permalink: /research/Explainable AI for Physics/
 Chen XX#, Zhang P*, Yu HS, Yin ZY, Sheil B, 2025. Parsimonious universal function approximator for elastic and elasto-plastic cavity expansion problems, Journal of Geotechnical and Geoenvironmental Engineering-ASCE, (Accepted)  
 
 [Zhang P, Yin ZY, Sheil B, 2024. A physics-informed data-driven approach for consolidation analysis. **Géotechnique**, 74(7), 620-631 (☆75th Géotechnique Anniversary Early Career Award)](https://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.22.00046)  
+
+Zhang P, Yin ZY, Sheil B, 2024. Multifidelity constitutive modeling of stress-induced anisotropic behavior of clay, Journal of Geotechnical and Geoenvironmental Engineering-ASCE, 150(3), 04024003  
