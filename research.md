@@ -17,12 +17,12 @@ weight: 2
   
 <!-- This is for Mechanics -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><font size="3">Micro- and Macro-scale Granular Mechanics</font><img src="/assets/research/Micro-Macro-Mechanics.gif" style="width: 100%; border: 2px solid black;"></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/Micro-Macro-Mechanics/"><font size="3">Micro- and Macro-scale Granular Mechanics</font></a><img src="/assets/research/Micro-Macro-Mechanics.gif" style="width: 100%; border: 2px solid black;"></p>
 <p style="clear: both;">
 
 <!-- This is for Digital Twins -->
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><font size="3">Digital Twins</font><img src="/assets/research/tunnel.gif" style="width: 100%; border: 2px solid black;"></p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/Tunnelling Intelligenisation/"><font size="3">Tunnelling Intelligenisation</font></a><img src="/assets/research/tunnel.gif" style="width: 100%; border: 2px solid black;"></p>
 <p style="clear: both;">
 
 <!-- This is for UQ -->
