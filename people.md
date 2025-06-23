@@ -28,8 +28,8 @@ weight: 3
 </div>  
 
 <h3 style="margin-bottom:0;"> Weiqi GUO </h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Topic: Coupled multi-phase modelling </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 2025–Present: Postdoc at NUS </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> Topic: Thermodynamics based multi-phase modelling </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> 02/2025–Present: Postdoc at NUS </h5>
 
 <p style="clear: both;">
 
@@ -46,7 +46,7 @@ weight: 3
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-bottom:0;">Yushuo ZHANG</h3>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Multi-scale Modelling</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">2025–Present: Ph.D at NUS</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">01/2025–Present: Ph.D at NUS</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2024: M.Sc at Central South University</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2021: B.Eng at Central South University</h5>
   </div>
