@@ -44,7 +44,7 @@ weight: 3
 
   <!-- Student 1 -->
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Shuchen Wang</h3>
+    <h3 style="margin-bottom:0;">Shuchen WANG</h3>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Internal Erosion</h5>
     <h5 style="margin-top:0; margin-bottom:0;">08/2025–Present: Ph.D at NUS</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2025: M.Sc at Tongji University</h5>
