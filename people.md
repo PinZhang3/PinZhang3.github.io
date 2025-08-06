@@ -87,6 +87,10 @@ weight: 3
 
 <!-- Wrapper for all Visiting PhD students -->
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">08/2025–Present, Ningyu YANG, Harbin Institute of Technology</h5>
+  </div>
   
   <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">05/2025–Present, Ya YIN, Uni of Science and Technology Beijing</h5>
