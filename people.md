@@ -25,11 +25,21 @@ weight: 3
   
 <h2><strong>Postdocs</strong></h2>
 
-</div>  
+</div>    
 
-<h3 style="margin-bottom:0;"> Weiqi GUO </h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Topic: Thermodynamics based multi-phase modelling </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 02/2025–Present: Postdoc at NUS </h5>
+  <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+  <!-- Student 3 -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin-bottom:0;">Geng-Fu HE</h3>
+    <h5 style="margin-top:0; margin-bottom:0;">Topic: Uncertainty Quantification</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">10/2025–Present: Postdoc at NUS</h5>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin-bottom:0;">Weiqi GUO</h3>
+    <h5 style="margin-top:0; margin-bottom:0;">Topic: Thermodynamics based multi-phase modelling</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">02/2025–Present: Postdoc at NUS</h5>
+  </div>  
 
 <p style="clear: both;">
 
@@ -58,23 +68,6 @@ weight: 3
     <h5 style="margin-top:0; margin-bottom:0;">01/2025–Present: Ph.D at NUS</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2024: M.Sc at Central South University</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2021: B.Eng at Central South University</h5>
-  </div>
-
-  <!-- Student 2 -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Xiao-Xuan CHEN</h3>
-    <h5 style="margin-top:0; margin-bottom:0;">Topic: Physics-informed Learning</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">2023–Present: Ph.D at The Hong Kong Polytechnic University</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">2023: B.Sc at Zhejiang University</h5>
-  </div>
-
-  <!-- Student 3 -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Geng-Fu HE</h3>
-    <h5 style="margin-top:0; margin-bottom:0;">Topic: Uncertainty Quantification</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">2022–Present: Ph.D at The Hong Kong Polytechnic University</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">2020: M.Sc at Sichuan University</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">2017: B.Sc at Sichuan University</h5>
   </div>
 
 </div>
