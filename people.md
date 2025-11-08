@@ -33,12 +33,14 @@ weight: 3
     <h3 style="margin-bottom:0;">Geng-Fu HE</h3>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: AI for Geotechnics</h5>
     <h5 style="margin-top:0; margin-bottom:0;">10/2025–Present: Postdoc at NUS</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">PhD from HK PolyU
   </div>
 
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-bottom:0;">Weiqi GUO</h3>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Thermodynamics based multi-phase modelling</h5>
     <h5 style="margin-top:0; margin-bottom:0;">02/2025–Present: Postdoc at NUS</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">PhD from Hohai Uni
   </div>  
 
 </div>
