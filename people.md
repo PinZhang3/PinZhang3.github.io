@@ -94,7 +94,7 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">01/2026–Present, Kailin Ding, Southern University of Science and Technology</h5>
+    <h5 style="margin-bottom:0;">01/2026–Present, Kailin DING, Southern University of Science and Technology</h5>
   </div>
   
   <div style="flex: 1; min-width: 250px;">
@@ -130,7 +130,7 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">01/2026–Present, Assoc Prof., Pan Gao, Shanghai Maritime University</h5>
+    <h5 style="margin-bottom:0;">01/2026–Present, Assoc Prof., Pan GAO, Shanghai Maritime University</h5>
   </div>
 
 </div>  
