@@ -120,3 +120,17 @@ weight: 3
 </div>  
 
 <p style="clear: both;">
+
+<div>
+  
+<h2><strong>Academic Visitors</strong></h2>
+
+</div>
+
+<div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">01/2026–Present, Assoc Prof., Pan Gao, Shanghai Maritime University</h5>
+  </div>
+
+</div>  
