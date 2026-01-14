@@ -123,7 +123,7 @@ weight: 3
 
 <div>
   
-<h2><strong>Academic Visitors</strong></h2>
+<h2><strong>Academic visitors</strong></h2>
 
 </div>
 
