@@ -30,7 +30,7 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
   <!-- Student 3 -->
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Jiachong Xie</h3>
+    <h3 style="margin-bottom:0;">Jiachong XIE</h3>
     <h5 style="margin-top:0; margin-bottom:0;">PhD from Universitat Politècnica de Catalunya</h5>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: AI for Underground Geotechnics</h5>
     <h5 style="margin-top:0; margin-bottom:0;">01/2026–Present: Postdoc at NUS</h5>
