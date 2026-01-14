@@ -86,6 +86,10 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">01/2026–Present, Kailin Ding, Southern University of Science and Technology</h5>
+  </div>
+  
+  <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">08/2025–Present, Ningyu YANG, Harbin Institute of Technology</h5>
   </div>
   
