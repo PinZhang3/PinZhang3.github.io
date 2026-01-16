@@ -84,6 +84,8 @@ weight: 3
 
 </div>
 
+<p style="clear: both;">
+  
 <div>
   
 <h2><strong>Visiting PhD students</strong></h2>
