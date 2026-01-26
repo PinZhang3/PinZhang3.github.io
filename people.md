@@ -136,3 +136,19 @@ weight: 3
   </div>
 
 </div>  
+
+<p style="clear: both;">
+
+<div>
+  
+<h2><strong>Alumni</strong></h2>
+
+  <div style="flex: 1; min-width: 250px;">
+  <h5 style="margin-bottom:0;">03/2025–01/2025: Gang YANG (Visiting PhD student), Chengdu Uni of Technology</h5>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+  <h5 style="margin-bottom:0;">02/2025–01/2025: Jiaxin LIU (Visiting PhD student), Shanghai Jiao Tong Uni</h5>
+  </div>
+
+</div>
