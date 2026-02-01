@@ -16,17 +16,14 @@ permalink: /people/pinzhang/
 # __Bio__
 [Pin ZHANG](https://cde.nus.edu.sg/cee/staff/zhangpin/) is the Assistant Professor under the [Presidential Young Professorship](https://www.nus.edu.sg/careers/nus-programmes/) in the Department of Civil and Environmental Engineering at the National University of Singapore (NUS). Before joining NUS, Dr ZHANG worked at the University of Cambridge as the Royal Society Newton International Fellow (2022-2024). He completed the Ph.D. from the Hong Kong Polytechnic University (PolyU) in 2022, including one year at the University of Oxford as a visiting scholar.  
 
-New knowledge is demonstrated by publications in high-impact journals such as [Géotechnique](https://www.icevirtuallibrary.com/toc/jgeot/current), [JGGE](https://ascelibrary.org/journal/jggefk) and [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering). Two journal papers were recognized as Editor’s Choice by *JEM-ASCE* and *FSCE*, and five papers were recognized as the journal’s top cited/downloaded.  
-
-Dr ZHANG was also the recipient of Early Career Award from Institution of Civil Engineers, Turing Network Development Award, Ringo Yu Prize from The Hong Kong Institution of Engineers, PolyU PhD thesis-Merit Award, Hunan Provincial Outstanding Master's Dissertation and Hunan University Outstanding Graduate.
+His research focuses on (1) intelligent computational geomechanics, aiming to develop knowledge-informed AI approaches to reshape the fundamental framework of computational geomechanics, covering constitutive modelling, integration algorithms, solvers, etc; and (2) the application of artificial intelligence in geotechnical engineering, with particular emphasis on sustainable geomaterials, tunnelling, and coastal geotechnics. 
 
 # __Service__
-Member of the British Geotechnical Association  
-Corresponding member of TC105 Geo-Mechanics from Micro to Macro, ISSMGE  
-Nominated member of TC222 Geotechnical BIM and DT, ISSMGE  
-Nominated member of TC309 Machine Learning and Big Data, ISSMGE  
-
-2023: Guest Editor of a special issue of “Data-Centric Engineering (Cambridge)”
+Since 11/2025: Member of Editorial Board of “Computers and Geotechnics”, Elsevier
+Since 11/2025: Member of Early Career Editorial Advisory Board of “International Journal for Numerical and Analytical Methods in Geomechanics”, Wiley
+Since 07/2025: Member of Early Career Board of “Geomechanics and Geoengineering”, Taylor & Francis
+2025: Guest Editor of a special issue of “Geodata and AI”
+2024: Guest Editor of a special issue of “Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards”
 
 **Grant Reviewer**  
 Natural Sciences and Engineering Research Council of Canada (NSERC)
@@ -39,6 +36,10 @@ Natural Sciences and Engineering Research Council of Canada (NSERC)
 11/2022: Chair, ISSMGE TC309 Technical Forum of Young Scholars on Data-driven Modelling of Soil Behaviours with Geotechnical Applications, HK  
 
 # __Awards & Honours__
+01/2026	Best Paper Award, Tunnell. Undergr. Space Technol. (Elsevier)
+08/2025	Bright Spark Lecture, International Society for Soil Mechanics and Geotechnical Eng. (ISSMGE)
+12/2024	10th FSCE Anniversary Best Paper Award (10 awarded papers over a decade), FSCE (CAE)
+11/2024	Presidential Young Professorship, National University of Singapore
 03/2024: Top Downloaded Article, Int. J. Numer. Anal. Methods Geomech. (Wiley)  
 10/2023: World's Top 2% Scientists, Stanford University  
 10/2023: PolyU PhD Thesis Award 2023 – Merit Award (3 recipients from all PhDs at PolyU in 2022), PolyU  
