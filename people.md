@@ -29,12 +29,19 @@ weight: 3
 
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
   <!-- Student 3 -->
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3 style="margin-bottom:0;">Jie QI</h3>
+    <h5 style="margin-top:0; margin-bottom:0;">PhD from The University of Melbourne</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">Topic: AI for Sustainable Geomaterials</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">02/2026–Present: Postdoc at NUS</h5>
+  </div>
   
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-bottom:0;">Jiachong XIE</h3>
     <h5 style="margin-top:0; margin-bottom:0;">PhD from Universitat Politècnica de Catalunya</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">Topic: AI for Tunnels</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">01/2026–Present: Postdoc at NUS</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">Topic: Intelligent Tunnel Maintenance</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">02/2026–Present: Postdoc at NUS</h5>
   </div>
     
   <div style="flex: 1; min-width: 250px;">
