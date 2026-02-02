@@ -41,7 +41,7 @@ weight: 3
     <h3 style="margin-bottom:0;">Jiachong XIE</h3>
     <h5 style="margin-top:0; margin-bottom:0;">PhD from Universitat Politècnica de Catalunya</h5>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Intelligent Tunnel Maintenance</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">02/2026–Present: Postdoc at NUS</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">01/2026–Present: Postdoc at NUS</h5>
   </div>
     
   <div style="flex: 1; min-width: 250px;">
