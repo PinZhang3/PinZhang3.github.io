@@ -31,21 +31,42 @@ weight: 3
   <!-- Student 3 -->
 
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Jie QI</h3>
+    <h3 style="margin-bottom:0;">
+      <a href="https://scholar.google.com/citations?user=TDKEDgQAAAAJ&hl=en"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Jie QI
+      </a>
+    </h3>
     <h5 style="margin-top:0; margin-bottom:0;">PhD from The University of Melbourne</h5>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: AI for Sustainable Geomaterials</h5>
     <h5 style="margin-top:0; margin-bottom:0;">02/2026–Present: Postdoc at NUS</h5>
   </div>
   
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Jiachong XIE</h3>
+    <h3 style="margin-bottom:0;">
+      <a href="https://scholar.google.com/citations?hl=en&user=pm5sBkAAAAAJ&inst=3212728378801010220"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Jiachong XIE
+      </a>
+    </h3>
     <h5 style="margin-top:0; margin-bottom:0;">PhD from Universitat Politècnica de Catalunya</h5>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Intelligent Tunnel Maintenance</h5>
     <h5 style="margin-top:0; margin-bottom:0;">01/2026–Present: Postdoc at NUS</h5>
   </div>
     
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Geng-Fu HE</h3>
+    <h3 style="margin-bottom:0;">
+      <a href="https://scholar.google.com/citations?hl=en&user=sUQ99v4AAAAJ&inst=3212728378801010220"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Geng-Fu HE
+      </a>
+    </h3>
     <h5 style="margin-top:0; margin-bottom:0;">PhD from HK PolyU</h5>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Digital Twinning for Geo-infrastructures</h5>
     <h5 style="margin-top:0; margin-bottom:0;">10/2025–Present: Postdoc at NUS</h5>
@@ -80,7 +101,14 @@ weight: 3
 
   <!-- Student 1 -->
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Shuchen WANG</h3>
+    <h3 style="margin-bottom:0;">
+      <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=YCt0D2QAAAAJ&inst=3212728378801010220"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Shuchen WANG
+      </a>
+    </h3>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Internal Erosion</h5>
     <h5 style="margin-top:0; margin-bottom:0;">08/2025–Present: Ph.D at NUS</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2025: M.Sc at Tongji University</h5>
@@ -89,7 +117,14 @@ weight: 3
 
   <!-- Student 1 -->
   <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">Yushuo ZHANG</h3>
+    <h3 style="margin-bottom:0;">
+      <a href="https://scholar.google.com/citations?hl=en&user=UeVSvhgAAAAJ&inst=3212728378801010220"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Yushuo ZHANG
+      </a>
+    </h3>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Multi-scale Modelling</h5>
     <h5 style="margin-top:0; margin-bottom:0;">01/2025–Present: Ph.D at NUS</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2024: M.Sc at Central South University</h5>
