@@ -34,8 +34,7 @@ weight: 3
     <h3 style="margin-bottom:0;">
       <a href="https://scholar.google.com/citations?user=TDKEDgQAAAAJ&hl=en"
          target="_blank"
-         rel="noopener noreferrer"
-         style="text-decoration:none; color:inherit;">
+         rel="noopener noreferrer">
         Jie QI
       </a>
     </h3>
@@ -48,8 +47,7 @@ weight: 3
     <h3 style="margin-bottom:0;">
       <a href="https://scholar.google.com/citations?hl=en&user=pm5sBkAAAAAJ&inst=3212728378801010220"
          target="_blank"
-         rel="noopener noreferrer"
-         style="text-decoration:none; color:inherit;">
+         rel="noopener noreferrer">
         Jiachong XIE
       </a>
     </h3>
@@ -62,8 +60,7 @@ weight: 3
     <h3 style="margin-bottom:0;">
       <a href="https://scholar.google.com/citations?hl=en&user=sUQ99v4AAAAJ&inst=3212728378801010220"
          target="_blank"
-         rel="noopener noreferrer"
-         style="text-decoration:none; color:inherit;">
+         rel="noopener noreferrer">
         Geng-Fu HE
       </a>
     </h3>
@@ -76,8 +73,7 @@ weight: 3
     <h3 style="margin-bottom:0;">
       <a href="https://scholar.google.com/citations?user=b2-4J6IAAAAJ&hl=zh-CN"
          target="_blank"
-         rel="noopener noreferrer"
-         style="text-decoration:none; color:inherit;">
+         rel="noopener noreferrer">
         Weiqi GUO
       </a>
     </h3>
@@ -104,8 +100,7 @@ weight: 3
     <h3 style="margin-bottom:0;">
       <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=YCt0D2QAAAAJ&inst=3212728378801010220"
          target="_blank"
-         rel="noopener noreferrer"
-         style="text-decoration:none; color:inherit;">
+         rel="noopener noreferrer">
         Shuchen WANG
       </a>
     </h3>
@@ -120,8 +115,7 @@ weight: 3
     <h3 style="margin-bottom:0;">
       <a href="https://scholar.google.com/citations?hl=en&user=UeVSvhgAAAAJ&inst=3212728378801010220"
          target="_blank"
-         rel="noopener noreferrer"
-         style="text-decoration:none; color:inherit;">
+         rel="noopener noreferrer">
         Yushuo ZHANG
       </a>
     </h3>
