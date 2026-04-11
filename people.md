@@ -145,7 +145,7 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">03/2026–Present, Weilun Sun, Zhejiang University</h5>
+    <h5 style="margin-bottom:0;">03/2026–Present, Weilun SUN, Zhejiang University</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
@@ -173,7 +173,7 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">04/2026–Present, Dr Jiangzhou Mei, Wuhan University</h5>
+    <h5 style="margin-bottom:0;">04/2026–Present, Dr Jiangzhou MEI, Wuhan University</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
