@@ -145,6 +145,10 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">03/2026–Present, Weilun Sun, Zhejiang University</h5>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">01/2026–Present, Kailin DING, Southern University of Science and Technology</h5>
   </div>
   
@@ -154,10 +158,6 @@ weight: 3
   
   <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">05/2025–Present, Ya YIN, Uni of Science and Technology Beijing</h5>
-  </div>
-  
-  <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">03/2025–Present: Panpan LI, Hunan Uni</h5>
   </div>
 
 </div>  
@@ -173,6 +173,10 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">04/2026–Present, Dr Jiangzhou Mei, Wuhan University</h5>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">01/2026–Present, Assoc Prof., Pan GAO, Shanghai Maritime University</h5>
   </div>
 
@@ -183,6 +187,10 @@ weight: 3
 <div>
   
 <h2><strong>Alumni</strong></h2>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">03/2025–02/2025: Panpan LI, Hunan Uni</h5>
+  </div>
 
   <div style="flex: 1; min-width: 250px;">
   <h5 style="margin-bottom:0;">03/2025–01/2025: Gang YANG (Visiting PhD student), Chengdu Uni of Technology</h5>
