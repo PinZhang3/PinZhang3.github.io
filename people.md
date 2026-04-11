@@ -189,7 +189,7 @@ weight: 3
 <h2><strong>Alumni</strong></h2>
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">03/2025–02/2025: Panpan LI, Hunan Uni</h5>
+    <h5 style="margin-bottom:0;">03/2025–02/2025: Panpan LI (Visiting PhD student), Hunan Uni</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
