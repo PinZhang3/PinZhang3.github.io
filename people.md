@@ -185,7 +185,7 @@ weight: 3
 <h2><strong>Alumni</strong></h2>
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">05/2025–05/2026, Ya YIN, Uni of Science and Technology Beijing</h5>
+    <h5 style="margin-bottom:0;">05/2025–05/2026, Ya YIN (Visiting PhD student), Uni of Science and Technology Beijing</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
