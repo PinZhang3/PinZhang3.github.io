@@ -155,10 +155,6 @@ weight: 3
   <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">08/2025–Present, Ningyu YANG, Harbin Institute of Technology</h5>
   </div>
-  
-  <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">05/2025–Present, Ya YIN, Uni of Science and Technology Beijing</h5>
-  </div>
 
 </div>  
 
@@ -187,6 +183,10 @@ weight: 3
 <div>
   
 <h2><strong>Alumni</strong></h2>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">05/2025–05/2026, Ya YIN, Uni of Science and Technology Beijing</h5>
+  </div>
 
   <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">03/2025–02/2025: Panpan LI (Visiting PhD student), Hunan Uni</h5>
