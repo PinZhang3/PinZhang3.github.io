@@ -20,11 +20,11 @@ weight: 2
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/Micro-Macro-Mechanics/"><font size="3">Granular Mechanics</font></a><img src="/assets/research/Micro-Macro-Mechanics.gif" style="width: 100%; border: 2px solid black;"></p>
 <p style="clear: both;">
 
-
 <!-- This is for UQ -->
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><font size="3">Geo-data and Digital Geotechnics</font><img src="/assets/research/Uncertainty.gif" style="width: 100%; border: 2px solid black;"></p>
-
+<p style="clear: both;">
+  
 <!-- This is for Digital Twins -->
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/Tunnelling Intelligenisation/"><font size="3">Underground Infrastructure</font></a><img src="/assets/research/tunnel.gif" style="width: 100%; border: 2px solid black;"></p>
