@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 weight: 2
 ---
-**Completed Projects**
+
 <!-- This is for Science Discovery -->
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 80%; margin-right: 1%; margin-bottom: 0.5em;"><a href="/research/Explainable AI for Physics/"><font size="3">Scientific Machine Learning</font></a><img src="/assets/research/SciDisSol.jpg" style="width: 100%; border: 2px solid black;"></p>
