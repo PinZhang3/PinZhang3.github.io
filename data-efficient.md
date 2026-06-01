@@ -179,7 +179,7 @@ permalink: /data-efficient/
 
     <div class="de-case-text">
       <p>
-        <strong>CPT/Borehole location optimisation:</strong> Optimising CPT and borehole locations to maximise information gain while minimising site investigation costs.
+        <strong>KIDE application I-CPT/Borehole location optimisation:</strong> Optimising CPT and borehole locations to maximise information gain while minimising site investigation costs.
       </p>
     </div>
 
@@ -193,7 +193,7 @@ permalink: /data-efficient/
 
     <div class="de-case-text">
       <p>
-        <strong>Soil Testing Optimisation:</strong> Identifying the most informative soil samples and laboratory tests to maximise model accuracy while minimising testing effort.
+        <strong>KIDE application II-Soil Testing Optimisation:</strong> Identifying the most informative soil samples and laboratory tests to maximise model accuracy while minimising testing effort.
       </p>
     </div>
 
