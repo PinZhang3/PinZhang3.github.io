@@ -6,7 +6,7 @@ weight: 1
 ---
 # About Our Group
 
-Our research is focused on computational and intelligent granular mechanics.
+Our research is focused on computational granular mechanics and AI for geo-infrastructure.
 
 # Contact Us
 
