@@ -109,7 +109,7 @@ weight: 3
         Shuchen WANG
       </a>
     </h3>
-    <h5 style="margin-top:0; margin-bottom:0;">Topic: Internal Erosion</h5>
+    <h5 style="margin-top:0; margin-bottom:0;">Topic: Micromechanics</h5>
     <h5 style="margin-top:0; margin-bottom:0;">08/2025–Present: Ph.D at NUS</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2025: M.Sc at Tongji University</h5>
     <h5 style="margin-top:0; margin-bottom:0;">2022: B.Eng at Chang'an University</h5>
