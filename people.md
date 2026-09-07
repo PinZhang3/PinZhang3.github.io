@@ -56,21 +56,7 @@ weight: 3
     <h5 style="margin-top:0; margin-bottom:0;">PhD from Universitat Politècnica de Catalunya</h5>
     <h5 style="margin-top:0; margin-bottom:0;">Topic: Intelligent Tunnel Maintenance</h5>
     <h5 style="margin-top:0; margin-bottom:0;">01/2026–Present: Postdoc at NUS</h5>
-  </div>
-    
-  <div style="flex: 1; min-width: 250px;">
-    <h3 style="margin-bottom:0;">
-      <a href="https://scholar.google.com/citations?hl=en&user=sUQ99v4AAAAJ&inst=3212728378801010220"
-         target="_blank"
-         rel="noopener noreferrer"
-         style="color:#2a7ae2; text-decoration:none;">
-        Geng-Fu HE
-      </a>
-    </h3>
-    <h5 style="margin-top:0; margin-bottom:0;">PhD from HK PolyU</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">Topic: Digital Twinning for Geo-infrastructures</h5>
-    <h5 style="margin-top:0; margin-bottom:0;">10/2025–Present: Postdoc at NUS</h5>
-  </div>
+  </div>    
 
   <div style="flex: 1; min-width: 250px;">
     <h3 style="margin-bottom:0;">
@@ -89,7 +75,7 @@ weight: 3
 </div>
 
 <p style="clear: both;">
-
+  
 <div> 
   
 <h2><strong>PhD students</strong></h2>
@@ -145,15 +131,15 @@ weight: 3
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">08/2026–Present, Kuo Li, China University of Mining and Technology</h5>
+  </div>
+  
+  <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">03/2026–Present, Weilun SUN, Zhejiang University</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">01/2026–Present, Kailin DING, Southern University of Science and Technology</h5>
-  </div>
-  
-  <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">08/2025–Present, Ningyu YANG, Harbin Institute of Technology</h5>
   </div>
 
 </div>  
@@ -183,6 +169,14 @@ weight: 3
 <div>
   
 <h2><strong>Alumni</strong></h2>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">10/2025–01/2026, Gengfu He (Research Assistant), The Hong Kong Polytechnic University</h5>
+  </div>
+  
+  <div style="flex: 1; min-width: 250px;">
+    <h5 style="margin-bottom:0;">08/2025–07/2026, Ningyu YANG (Visiting PhD student), Harbin Institute of Technology</h5>
+  </div>
 
   <div style="flex: 1; min-width: 250px;">
     <h5 style="margin-bottom:0;">05/2025–05/2026, Ya YIN (Visiting PhD student), Uni of Science and Technology Beijing</h5>
