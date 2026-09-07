@@ -171,15 +171,15 @@ weight: 3
 <h2><strong>Alumni</strong></h2>
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">10/2025–01/2026, Gengfu HE (Research Assistant), The Hong Kong Polytechnic University</h5>
+    <h5 style="margin-bottom:0;">10/2025–01/2026: Gengfu HE (Research Assistant), The Hong Kong Polytechnic University</h5>
   </div>
   
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">08/2025–07/2026, Ningyu YANG (Visiting PhD student), Harbin Institute of Technology</h5>
+    <h5 style="margin-bottom:0;">08/2025–07/2026: Ningyu YANG (Visiting PhD student), Harbin Institute of Technology</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">05/2025–05/2026, Ya YIN (Visiting PhD student), Uni of Science and Technology Beijing</h5>
+    <h5 style="margin-bottom:0;">05/2025–05/2026: Ya YIN (Visiting PhD student), Uni of Science and Technology Beijing</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
