@@ -168,7 +168,7 @@ weight: 3
 <h2><strong>Alumni</strong></h2>
 
   <div style="flex: 1; min-width: 250px;">
-    <h5 style="margin-bottom:0;">04/2026–10/2026, Dr Jiangzhou MEI (Visiting scholar), Wuhan University</h5>
+    <h5 style="margin-bottom:0;">04/2026–10/2026: Dr Jiangzhou MEI (Visiting scholar), Wuhan University</h5>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
